@@ -2,9 +2,9 @@
 
 #### Technical Skills:  
 
-##Education
+## Education
 - B.S., Data Science | Arizona State University (_May 2026_)
 
-###Experience
+### Experience
 
-###Projects
+### Projects
