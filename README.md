@@ -5,8 +5,6 @@
 ## Education
 - B.S., Data Science | Arizona State University (_May 2026_)
 
-### Experience
-
 ## Projects
 ### Measles Public Health Data Pipeline and Interactive Mapping
 [Live Dashboard](https://bleachmedia.net/measles/)
@@ -20,7 +18,7 @@ Created an API layer to serve processed measles data to the front-end applicatio
 
 [Workflow Diagram](https://bleachmedia.net/measles/)
 
-Developed a fully automated AI-powered video localization pipeline designed to make niche and non-mainstream media accessible to audiences outside of the original language region. The project was created with a specific focus on Japanese noise artist interviews, where historically significant, esoteric, or vintage media may not receive professional translation or localization due to limited commercial demand.
+Developed a fully automated AI powered video localization pipeline designed to make niche and non mainstream media accessible to audiences outside of the original language region. The project was created with a specific focus on Japanese electronic music artist interviews, where historically significant, esoteric, or vintage media may not receive professional translation or localization due to limited commercial demand.
 
 The system ingests a source-language video, separates the audio using FFmpeg, routes the extracted audio through a speech-to-text transcription model, translates the transcript into a target language, generates synchronized subtitle files, and creates an AI-generated overdub audio track. The pipeline then recombines the original video, translated subtitles, original audio, and generated target-language audio using FFmpeg, resulting in a final video file that supports both languages through selectable audio and subtitle tracks.
 
