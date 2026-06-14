@@ -2,3 +2,5 @@ title: William Scott
 logo: /assets/img/will_scott_headshot_circle.png
 description: An snapshot of past and present work.
 theme: jekyll-theme-minimal
+sass:
+  style: compressed
