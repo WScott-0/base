@@ -1,0 +1,31 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Center the left/header section in jekyll-theme-minimal */
+header {
+  text-align: center;
+}
+
+/* Center and size the logo image */
+header img {
+  display: block;
+  margin: 0 auto 20px auto;
+  max-width: 180px;
+  border-radius: 50%;
+}
+
+/* Center title and description */
+header h1,
+header p {
+  text-align: center;
+}
+
+/* Optional: center links/buttons under the header */
+header ul,
+header ol {
+  text-align: center;
+  padding-left: 0;
+  list-style-position: inside;
+}
