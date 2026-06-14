@@ -2,10 +2,10 @@
 
 #### Technical Skills: Python, R, SQL, JavaScript, PHP, HTML/CSS, PowerShell, Bash, MySQL, Git/GitHub, Jupyter Notebook, RStudio, ServiceNow Reporting, Google Apps Script  
 
-## Education
+# Education
 - B.S., Data Science | Arizona State University (_May 2026_)
 
-## Projects
+# Projects
 ### Public Health: Measles Data Pipeline and Interactive Mapping
 [Live Dashboard](https://bleachmedia.net/measles/)
 
@@ -16,7 +16,7 @@ Created an API layer to serve processed measles data to the front-end applicatio
 ---
 
 ### Accessability: AI Video Localization Pipeline for Niche Media
-#### Python, FFmpeg, Speech-to-Text, Machine Translation, Text-to-Speech, Natural Language Processing, AI Audio Generation, Subtitle Generation, Media Processing, Pipeline Automation
+*Python, FFmpeg, Speech-to-Text, Machine Translation, Text-to-Speech, Natural Language Processing, AI Audio Generation, Subtitle Generation, Media Processing, Pipeline Automation*
 
 [Workflow Diagram](https://bleachmedia.net/measles/)
 
