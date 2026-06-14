@@ -1,0 +1,5 @@
+/* Centers the main site title */
+.site-title, .site-header {
+  text-align: center;
+  margin: 0 auto;
+}
