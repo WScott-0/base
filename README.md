@@ -18,7 +18,7 @@ Created an API layer to serve processed measles data to the front-end applicatio
 #### Accessability: AI Video Localization Pipeline for Niche Media
 *Python, FFmpeg, Speech-to-Text, Machine Translation, Text-to-Speech, Natural Language Processing, AI Audio Generation, Subtitle Generation, Media Processing, Pipeline Automation*
 
-[Workflow Diagram](https://bleachmedia.net/measles/)
+[Workflow Diagram](#)
 
 Developed a fully automated AI powered video localization pipeline designed to make niche and non mainstream media accessible to audiences outside of the original language region. The project was created with a specific focus on Japanese electronic music artist interviews, where historically significant, esoteric, or vintage media may not receive professional translation or localization due to limited commercial demand.
 
